@@ -3,26 +3,6 @@
 
 在线云编译，是github推出的一项服务，它提供了高性能的虚拟服务器环境，基于它可以进行构建、测试、打包、部署项目。利用它可以省去本地搭建或者购买服务器的时间成本，你只需要使用本仓库的代码，按照下方的使用方法，修改一些参数，即可开始编译openwrt，等待几个小时后，你就可以下载固件了。
 
-说明：源码来自各位大佬分享，为了方便编译，做了一些修改，可以支持不同分支的opewrt源码，同时集成了打包img镜像的功能。
-
-- 官方源码：    https://github.com/openwrt/openwrt      
-
-- lede源码：    https://github.com/coolsnowwolf/lede  
-
-- lienol源码：  https://github.com/Lienol/openwrt 
-
-- immortalwrt源码： https://github.com/immortalwrt/immortalwrt
-
-### 操作教程由“实用技能”提供 @shiyongjineng
-
-#### 观看视频教程↓↓点击下方↓↓进行观看！
-
-[![从零开始：自己编译OpenWrt系统！一个视频就够了！](https://res.cloudinary.com/marcomontalbano/image/upload/v1692411463/video_to_markdown/images/youtube--_3B-y73JRQ4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/_3B-y73JRQ4 "从零开始：自己编译OpenWrt系统！一个视频就够了！")
-
-[![openwrt在线编译教程](https://res.cloudinary.com/marcomontalbano/image/upload/v1692156705/video_to_markdown/images/youtube--6j4ofS0GT38-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=6j4ofS0GT38 "openwrt在线编译教程")
-
-[![电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，](https://res.cloudinary.com/marcomontalbano/image/upload/v1692927730/video_to_markdown/images/youtube--EPNsHRj3eXE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/EPNsHRj3eXE "电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，")
-
 
 ## 使用方法
 
@@ -63,4 +43,12 @@
  
  由于时间仓促，修改可能不到位，后续慢慢补充！
 
-  
+  说明：源码来自各位大佬分享，为了方便编译，做了一些修改，可以支持不同分支的opewrt源码，同时集成了打包img镜像的功能。
+
+- 官方源码：    https://github.com/openwrt/openwrt      
+
+- lede源码：    https://github.com/coolsnowwolf/lede  
+
+- lienol源码：  https://github.com/Lienol/openwrt 
+
+- immortalwrt源码： https://github.com/immortalwrt/immortalwrt
